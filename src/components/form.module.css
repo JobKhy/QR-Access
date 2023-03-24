@@ -1,0 +1,20 @@
+.formi{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    background-color: #f5f5f5;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.title{
+    font-size: 2rem;
+    font-weight: 700;
+    color: #000;
+    margin: 0;
+    margin-bottom: 1rem;
+    text-align: center;
+  }
